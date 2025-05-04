@@ -51,9 +51,9 @@
 ### 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadibrohimovDEV&show_icons=true&theme=radical" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadibrohimovDEV&layout=compact&theme=radical" height="150" alt="languages graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadibrohimovDEV&theme=radical" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=miuceo&show_icons=true&theme=radical" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miuceo&layout=compact&theme=radical" height="150" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miuceo&theme=radical" height="150" alt="streak graph"  />
 </div>
 
 ---
