@@ -61,7 +61,7 @@
 ### 🏆 GitHub Trophies:
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammadibrohimovDEV&theme=darkhub&column=4" alt="GitHub Trophies"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=miuceo&theme=darkhub&column=4" alt="GitHub Trophies"  />
 </div>
 
 ---
