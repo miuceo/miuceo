@@ -2,52 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
-🌍 **From:** Fergana, Uzbekistan  
-🎓 **Education:** Bachelor's in World Economy & International Relations @ IIAU  
-💻 **Tech Stack:** Python, Go, Flask, Django, NumPy, Pandas, Scikit-learn, PyTorch, Matplotlib, HTML, CSS, Bootstrap
-
----
-
-### 🚀 About Me:
-🔹 AI Engineer & Developer  
-🔹 Passionate about AI, Data Science, ML, & Deep Learning  
-🔹 Love building cool projects & exploring new technologies  
-
-📩 **Connect with me:**  
-[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/muhammadjon-ibrohimov-267a39354)
-✉️ **Gmail:**
-
----
-
-### 🛠 Languages & Tools:
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="40" alt="scikit-learn logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,git" height="30" />
-</div>
-
----
-
 ### 📊 GitHub Stats:
 
 <div align="center">
@@ -67,8 +21,5 @@
 ---
 
 ---
-
-### 🎮 Fun Fact:
-If I'm not coding, I'm probably exploring new AI models or watching tech talks! 😃
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
