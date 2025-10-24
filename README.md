@@ -14,6 +14,8 @@
 <!-- 🚀 Coder Animation -->
 <img src="https://i.ibb.co/TbgdR2j/coding-futuristic.gif" width="400px" alt="Coding Animation"/>
 
+[![wakatime](https://wakatime.com/badge/user/4efda21c-a737-4ec0-ae71-a70077bc9189.svg)](https://wakatime.com/@4efda21c-a737-4ec0-ae71-a70077bc9189)
+
 </div>
 
 ---
