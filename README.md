@@ -18,12 +18,11 @@ class Muhammadjon:
     def __init__(self):
         self.role = ["ML/AI Engineer", "Python Backend Dev", "Instructor @Najot Ta'lim"]
         self.based_in = "Fergana, Uzbekistan"
-        self.moving_to = "Tashkent, 2027"
         self.building = "Personal brand as AI/Automation Expert — not a freelancer"
         self.currently = [
-            "Fine-tuning Qwen2.5-14B / Mistral-Nemo on Uzbek (QLoRA + Unsloth)",
-            "Building RAG pipelines with pgvector on Neon Postgres",
-            "Teaching backend & AI-generated advertising at Najot Ta'lim"
+            "Fine-tuning LLMs",
+            "Building RAG",
+            "Teaching AI for various types of people!"
         ]
 
     def philosophy(self):
@@ -32,8 +31,7 @@ class Muhammadjon:
 
 I don't just write code — I try to understand the machinery underneath it, the same way I watch a Nolan film twice: once for the story, once for the structure.
 
-</td>
-<td width="40%" valign="top">
+</br>
 
 ### `stack.json`
 
